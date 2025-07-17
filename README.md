@@ -1,12 +1,8 @@
-<div>
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=dcc5b2&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&fontColor=faf7f3)
-</div>
 
-<div>
-  <!--Body-->
+![header](https://capsule-render.vercel.app/api?type=waving&color=dcc5b2&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&fontColor=faf7f3)
+
   ## 👀About Me
-</div>
+
 
 <!--
 **13aek/13aek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
