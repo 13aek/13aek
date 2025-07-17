@@ -2,7 +2,7 @@
 
   ## 🚀About Me
   - 📚 산업경영공학 전공
-  - 💻 Naver AI Tech Boostcamp 7기 RecSys 수료
+  - 💻 Naver Boostcamp AI Tech 7기 RecSys 수료
   - 💻 SSAFY 14기 ~ing 
 
   ## 🔧Tech Stack
