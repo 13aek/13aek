@@ -6,11 +6,7 @@
   - 💻 SSAFY 14기 ~ing 
 
   ## 🔧Tech Stack
-  - **Languages**: Python, SQL
-  - **Frameworks & Libraries**: PyTorch, Scikit-learn, Pandas, RecBole
-  - **Tools**: Git, VSCode, Jupyter, Notion
-  - **ETC**: ML/DL, 추천 시스템, 데이터 시각화
-  - 
+
   ## 🛠️ Projects
 
   ## 📫 Contact
