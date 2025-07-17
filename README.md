@@ -1,9 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=dcc5b2&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&fontColor=faf7f3)
 
-  ## 👀About Me
+  ## 🚀About Me
+  - 📚 산업경영공학 전공
+  - 💻 Naver AI Tech Boostcamp 7기 RecSys 수료
+  - 💻 SSAFY 14기 ~ing 
 
   ## 🔧Tech Stack
-
+  - **Languages**: Python, SQL
+  - **Frameworks & Libraries**: PyTorch, Scikit-learn, Pandas, RecBole
+  - **Tools**: Git, VSCode, Jupyter, Notion
+  - **ETC**: ML/DL, 추천 시스템, 데이터 시각화
+  - 
   ## 🛠️ Projects
 
   ## 📫 Contact
