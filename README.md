@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=dcc5b2&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&fontColor=faf7f3)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=baekus2209)](https://solved.ac/baekus2209)
-
   ## 🚀About Me
   - 📚 산업경영공학 전공
   - 💻 Naver Boostcamp AI Tech 7기 RecSys 수료
